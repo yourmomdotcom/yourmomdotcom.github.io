@@ -88,12 +88,13 @@ img{
 }
 
 button{
+    align-content: center;
     background-color: #906042;
     border: none;
     color: #fffbe7;
-    padding: 15px 32px;
+    padding: 10px 20px;
     text-align: center;
-    text-decoration: none;
+    font-family: 'Quattrocento', serif;
     display: inline-block;
     font-size: 1.4em;
 
