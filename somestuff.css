@@ -31,6 +31,26 @@ body{
     color:#eefbe7;
 }
 
+a.l1:link{
+    color:#eefbe7;
+    text-decoration:none;
+}
+
+a.l1:visited{
+    color:#eefbe7;
+    text-decoration:none;
+}
+
+a.l1:hover{
+    color:#eefbe7;
+    text-decoration:none;
+}
+
+a.l1:active{
+    color:#eefbe7;
+    text-decoration:none;
+}
+
 
 /*
 img{
