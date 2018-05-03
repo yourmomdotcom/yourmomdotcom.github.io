@@ -31,22 +31,22 @@ body{
     color:#eefbe7;
 }
 
-.l1:link{
+a:link{
     color:#eefbe7;
     text-decoration:none;
 }
 
-.l1:visited{
+a:visited{
     color:#eefbe7;
     text-decoration:none;
 }
 
-.l1:hover{
+a:hover{
     color:#eefbe7;
     text-decoration:none;
 }
 
-.l1:active{
+a:active{
     color:#eefbe7;
     text-decoration:none;
 }
