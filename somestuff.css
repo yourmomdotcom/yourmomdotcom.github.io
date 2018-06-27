@@ -110,5 +110,6 @@ p{
 
 .right{
     float: right;
-    padding: 10px;
+    padding-top: 10px;
+    padding-right:10px;
 }
