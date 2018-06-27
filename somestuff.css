@@ -7,6 +7,7 @@ body{
     background-size:100%;
     background-color:#b6caea;
     background-attachment: fixed;
+    word-wrap: break-word;
 }
 
 .d1{
