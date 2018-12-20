@@ -88,13 +88,13 @@ img{
     padding-bottom: 600px;
 }
 
-p.d3{
-    font-family: 'Quattrocento', serif;
-}
 
 
 h.d3{
     font-family: 'Cantarell', sans-serif;
+    padding-bottom:10px;
+    padding-top:15px;
+    
 }
 
 button{
@@ -116,6 +116,7 @@ button:hover{
 
 p{
     padding:10px;
+    font-family: 'Quattrocento', serif;
 }
 
 .right{
