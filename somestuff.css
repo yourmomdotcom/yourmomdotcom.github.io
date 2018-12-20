@@ -75,7 +75,6 @@ img{
 }
 
 .d3{
-    font-family: 'Quattrocento', serif;
     align-content: center;
     background-color: #fffbe7;
     padding: 60px;
@@ -87,6 +86,10 @@ img{
     line-height: 1.5;
     letter-spacing: 1px;
     padding-bottom: 600px;
+}
+
+p.d3{
+    font-family: 'Quattrocento', serif;
 }
 
 
