@@ -33,6 +33,7 @@ body{
     color:#eefbe7;
 }
 
+
 .l1{
     padding-left:6px;
     padding-right:6px;
@@ -86,6 +87,11 @@ img{
     line-height: 1.5;
     letter-spacing: 1px;
     padding-bottom: 600px;
+}
+
+
+h.d3{
+    font-family: 'Cantarell', sans-serif;
 }
 
 button{
